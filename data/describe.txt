@@ -1,0 +1,2 @@
+The raw geospatial and rainfall data were obtained from the Macao Cartography and Cadastre Bureau and the Macao Meteorological and Geophysical Bureau, respectively.
+The processed samples and simulation outputs generated in this study are available from the corresponding author upon reasonable request.
